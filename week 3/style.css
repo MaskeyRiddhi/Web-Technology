@@ -1,17 +1,20 @@
 *{
     
-    font-size: 18px;
+    font-size: 20px;
 }
 
 h1{
-    font-size: 40px;
+    font-size: 40px; color: aqua;
 }
 
-#test{
-    color: aqua;
+nav{
+    color: rgb(80, 70, 104); inline-size: auto;
+}
+li a{
+    color: brown; 
 }
 
 h2{
-    font-size: 30px;
+    font-size: 40px;
 }
 
