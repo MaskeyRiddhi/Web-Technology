@@ -1,19 +1,15 @@
 *{
-    
     font-size: 20px;
 }
 
-h1{
-    font-size: 40px; color: aqua;
-}
-
-nav{
-    color: rgb(80, 70, 104); inline-size: auto;
-}
-li a{
-    color: brown; 
-}
-
-h2{
-    font-size: 40px;
+img{
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    width:auto;
+    height: 600px;
+    background-size: cover;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
