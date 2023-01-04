@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.grid1{
+    background-color: rgb(236, 110, 236);
+}
+.grid2{
+    background-color: rgb(43, 241, 192);
+}
+.grid3{
+    background-color: rgb(188, 142, 220);
+}
+.grid4{
+    background-color: rgb(211, 81, 81);
+}
+.grid5{
+    background-color: rgb(231, 222, 57);
+}
+.grid6{
+    background-color: rgb(33, 197, 238);
+}
